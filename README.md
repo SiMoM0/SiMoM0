@@ -6,6 +6,8 @@
 - :tennis: I do sport
 - :computer: I try to code
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-mosco/) [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/onesim/)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
