@@ -7,7 +7,7 @@
 - :computer: I try to code
 
 <!--- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-mosco/)--->
-[![GooglePlay](https://img.shields.io/badge/-Google_Play-19dd19?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Simone+Mosco) [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/onesim/)
+[![GooglePlay](https://img.shields.io/badge/-Google_Play-19dd19?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9156799026580612705) [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/onesim/)
 
 <!---
 - 👀 I’m interested in ...
